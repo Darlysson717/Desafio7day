@@ -1,0 +1,45 @@
+.banner{
+align-items: center;
+padding:4em ;
+font-family: var(--font-banner);
+flex-direction: column;
+
+display: flex;
+}
+
+
+.sub-banner{
+    align-items: center;
+    font-size: 16px;
+    color: var(--vermelho);
+    font-weight: 600;
+
+}
+
+
+.titulo__banner{
+color: var(--preto);
+font-size: 48px;
+font-weight: 600;
+
+}
+
+.texto__banner{
+color: var(--cinza);
+font-family: var(--font-banner);
+font-weight: 400;
+font-size: 20px;
+
+padding: 12px, 0px, 0px, 0px;
+
+width: 791px;
+height: 60px;
+
+
+
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}

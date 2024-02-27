@@ -1,0 +1,135 @@
+
+
+.vagas__1{
+  
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.pre__titulo{
+background-color: rgba(142, 36, 36, 0.05);
+padding: 4px, 12px, 4px, 12px;
+color: var(--vermelho);
+
+border-radius: 16px;
+font-family: var(--font-banner);
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+
+}
+
+.vagas__titulo{
+ margin-top: 16px;
+color:var(--preto);
+font-family:var(--font-banner);
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.02em;
+text-align: center;
+
+}
+
+.vagas__texto{
+    margin-top: 20px;
+    font-family:var(--font-banner);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(102, 112, 133, 1);
+    
+}
+
+.imagem__vagas{
+width: 1216px;
+height: 400px;
+top: 298px;
+left: 112px;
+margin-top: 64px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.vagas__abertas{
+width: (1,280px);
+height: Hug (358px);
+top: 762px;
+left: 80px;
+padding: 0px, 32px, 0px, 32px;
+gap: 64px;
+margin-left: 336px;
+margin-right: 336px;
+margin-top: 64px;
+}
+
+.Titulo__vagas_abertas{
+color: var(--cor-titulo-vagas);  
+font-family: var(--font-banner);
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.itens__vagas{
+    width: Fill (768px);
+height: Hug (136px);
+padding: 10px 24px 28px 24px;
+border-radius: 16px;
+border: 1px solid;
+gap: 24px;
+margin-bottom: 24px;
+margin-top: 32px;
+border-color: var(--cor-bordas-vagas);
+
+}
+
+.titulo__itens-vagas{
+
+ color: var(--cor-titulo-vagas);   
+font-family: var(--font-banner);
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.texto__vagas{
+color: var(--cor-texto-vagas);
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-right: 24p;
+}
+
+.vagas__abertas__2{
+  
+    width: (1,280px);
+height: Hug (358px);
+top: 762px;
+left: 80px;
+padding: 0px, 32px, 0px, 32px;
+gap: 64px;
+margin-left: 336px;
+margin-right: 336px;
+margin-top: 64px;
+margin-bottom: 96px;
+}
+
